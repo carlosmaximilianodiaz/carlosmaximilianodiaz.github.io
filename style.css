@@ -1,1 +1,6 @@
-style.css
+body{
+  background-color: orange;
+}
+.trans {
+  opacity: 0.5;}
+  
